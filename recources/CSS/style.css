@@ -72,3 +72,40 @@ h1 {
   margin-right: 30px;
   flex-direction: column;
 }
+
+.Story {
+  background-image: url("../Images/img-story-main.png");
+  height: 200px;
+}
+
+.ImageCat {
+  background-image: url("../Images/img-story-1.png");
+  height: 200px;
+}
+
+.EarthImage {
+  background-image: url("../Images/img-story-2.png");
+  height: 200px;
+}
+
+.ImageCameras {
+  background-image: url("../Images/img-story-3.png");
+  height: 200px;
+}
+
+.ImageText {
+  font-family: Georgia;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+}
+
+.pContent {
+ font-family: Georgia;
+ font-size: 17px;
+ color: black;
+}
+
+.ImageTextStory {
+  font-size: 40px;
+}
