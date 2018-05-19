@@ -49,8 +49,8 @@ h1 {
 }
 
 .MainBlock {
-  padding-top: 200px;
   display: flex;
+  padding-top: 20px;
   width: 1300px;
 }
 
