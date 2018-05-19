@@ -50,6 +50,7 @@ h1 {
 
 .MainBlock {
   display: flex;
+  margin: 20px auto 78px auto;
   padding-top: 20px;
   width: 1300px;
 }
